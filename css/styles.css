@@ -1,0 +1,31 @@
+body {
+  padding-top: 55px;
+}
+
+@media (min-width: 990px) {
+  body {
+    padding-top: 50px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
+
+.break-all {
+  word-break: break-all;
+}
+
+.unselectable {
+  -webkit-user-select: none;
+     -moz-user-select: -moz-none;
+      -ms-user-select: none;
+          user-select: none;
+}

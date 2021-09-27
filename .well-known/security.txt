@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Canonical URL
+Canonical: https://snopyta.org/.well-known/security.txt
+
+# Our security address
+Contact: mailto:security@snopyta.org
+
+# Our OpenPGP key
+Encryption: https://snopyta.org/gpg.asc
+
+# Preferred languages
+Preferred-Languages: en, de
+-----BEGIN PGP SIGNATURE-----
+
+iIoEARYKADIWIQS25JssGiN6evX+1JCXm/rU44Cf2AUCXLMcqBQcc3VwcG9ydEBz
+bm9weXRhLm9yZwAKCRCXm/rU44Cf2OBdAQDEX1w2qlSdn+RkXs/FDHaP413yCvBs
+wTYX1HEBZZEJ2wEA5mlxK0qkDczWY09vYDtczCvklljV63bFrYmLiJI0+gU=
+=FSC1
+-----END PGP SIGNATURE-----
