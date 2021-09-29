@@ -1,1 +1,1 @@
-snopyta.org
+ampis.org
